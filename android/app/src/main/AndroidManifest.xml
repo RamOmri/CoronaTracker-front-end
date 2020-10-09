@@ -16,7 +16,7 @@
       <!-- ///////////////////////////////this is added for maps feature////////// -->
        <meta-data
      android:name="com.google.android.maps.v2.API_KEY"
-     android:value="AIzaSyBov9950TZlz5uHh-geo95wKbg45UarrAI"/>
+     android:value=""/> <!-- please input here your google-api key --->
   
    <!-- You will also only need to add this uses-libray tag -->
    <uses-library android:name="org.apache.http.legacy" android:required="false"/>
