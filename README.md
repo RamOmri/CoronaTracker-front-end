@@ -1,7 +1,7 @@
 # CoronaTracker
 Tracker for potential Coronavirus infections
 
-You can run this app on an emulator or app by calling ``react-native run-android```
+You can run this app on an emulator or app by calling ```react-native run-android```
 
 Download all th necessary modules by calling ```yarn install``` in the root directory.
 
